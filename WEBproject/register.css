@@ -1,0 +1,46 @@
+body{
+
+    background-image:url('images/reg1.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+.container .jumbotron h1{
+    font-family:'Times New Roman', Times, serif;
+    margin-top:5%;
+    color:black;
+    text-align:center;
+}
+
+.container .jumbotron p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    margin-top:2%;
+    margin-bottom:8%;
+    color:rgb(78, 11, 96);
+    text-align:center;
+
+}
+
+.container .row .col-lg-12 h2{
+    font-family:'Times New Roman', Times, serif;
+    margin-top:10%;
+    text-align:center;
+    color:black;
+}
+
+.container .row .col-lg-12 p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    margin-top:1%;
+    margin-bottom:8%;
+    color:black;
+    text-align:center;
+}
+
+
+

@@ -1,0 +1,194 @@
+body{
+    background:#ebe5df;
+    background: radial-gradient( rgb(240, 237, 229),rgb(207, 182, 135));
+}
+
+.aboutcompany h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#2c034e;
+    margin-top:2%;
+}
+
+.aboutcompany h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top:1%;
+    margin-bottom: 2%;
+}
+
+.aboutcompany p{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+    font-style: italic;
+    color:rgb(1, 21, 9);
+}
+
+.aboutcompany .aboutcontent{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    color:rgb(65, 7, 7);
+}
+
+.projects h2{
+        text-align:center;
+        margin-top:5%;
+        font-family:'Times New Roman', Times, serif;
+        font-style:bold;
+        color:rgb(1, 21, 9);
+}
+
+.projects .projectcontent{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    color:rgb(63, 9, 9);
+    margin-bottom:2%;
+}
+
+
+.achievements{
+    padding:40px;
+}
+.achievements p{
+    margin-top:2%;
+    text-align:center;
+    color:black;
+    font-size:35px;
+    padding:10px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+}
+
+.achievements .achieve_container .achieve_content{
+    width: 50%;
+    padding:20px;
+    margin-top: 2%;
+    margin-right:5%;
+    float: right;
+    margin-bottom:5%;
+}
+
+.achievements .achieve_container .achieve_content li{
+    list-style:none;
+    font-size:15px;
+    margin:10px;
+    padding:10px;
+    border-Left: 2px #451d02;
+    color: rgb(17, 3, 52);
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif;
+    box-shadow: 0px 3px 65px 0px rgb(213, 208, 205);
+}
+
+.achievements .achieve_container .achieve_image{
+    width:30%;
+    float:left;
+    margin-Left:5%;
+    margin-right:2%;
+    margin-top:8%;
+}
+
+.achievements .achieve_container .achieve_image img{
+    width:100%;
+}
+
+
+.end h3{
+    font-family: lucida calligraphy;
+    font-style: italic;
+    text-align: center;
+    color:#2c034e;
+    margin-top:50%;
+    
+}
+
+.end h2{
+    font-family: lucida calligraphy;
+    font-style: italic;
+    text-align: center;
+    color:#054827;
+    margin-bottom:5%;
+}
+
+
+footer{
+    background:#cfb8a1;
+    background: radial-gradient( rgb(231, 223, 206),rgb(207, 182, 135));
+    padding:50px;
+}
+
+
+footer .pages{
+    text-align:center;
+}
+
+footer .pages h3{
+    color:black;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+
+footer .pages a{
+    text-decoration:none;
+    margin:1.5%;
+    color:#054827;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+footer .pages a:hover{
+    color:rgb(160, 137, 225);
+}
+
+
+footer .social{
+    text-align:center;
+}
+
+footer .social h3{
+    color:black;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+
+footer .social a{
+    text-decoration: none;;
+    font-size: 25px;
+    color:darkblue;
+    margin:2%;
+}
+
+footer .social a:hover{
+    color:white;
+}
+
+footer .contact{
+    text-align:center;
+}
+
+footer .contact h3{
+    color:black;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+
+footer .contact a{
+    text-decoration: none;;
+    font-size: 30px;
+    color:darkblue;
+    margin:2%;
+}
+
+footer .contact a:hover{
+    color:white;
+}
+
+
